@@ -1,0 +1,2 @@
+# jihappycoin
+coin
